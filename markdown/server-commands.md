@@ -13,7 +13,7 @@ sudo chown pi /mnt/hdd/ -R
 
 ## Plex
 
-```bash
+```console
 sudo service plexmediaserver restart
 ```
 
