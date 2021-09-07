@@ -2,8 +2,13 @@
 
 ## Contents
 
-- [Jupiter Notebooks](jupiter/)
-- [Markdown notes](markdown/)
-- [Text notes](text/)
+### Home
+- [Jupyter Notebooks](home/jupyter/)
+- [Markdown notes](home/markdown/)
+
+### Work
+- [Jupyter Notebooks](work/jupyter/)
+- [Markdown notes](work/markdown/)
+- [Text notes](work/text/)
 
 
