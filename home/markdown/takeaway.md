@@ -1,0 +1,6 @@
+- sweat and sour chicken
+- rice
+- prawn toast
+- chips
+- sweat and sour tofu or sweat chilly tofu
+- 
