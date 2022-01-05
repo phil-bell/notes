@@ -36,7 +36,7 @@ sudo systemctl restart qbittorrent
 ## Webserver
 
 ```console
-poetry run deploy_prod
-poetry run start_prod
+poetry --project=/home/pi/code/philbell.uk run deploy_prod
+poetry --project=/home/pi/code/philbell.uk run start_prod
 sudo /etc/init.d/nginx restart
 ```
